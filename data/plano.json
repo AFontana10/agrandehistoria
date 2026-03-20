@@ -1,0 +1,3991 @@
+{
+  "blocos": [
+    {
+      "titulo": "BLOCO 1 — CRIAÇÃO E PRIMEIRA HUMANIDADE",
+      "semanas": [
+        {
+          "id": "1",
+          "dias": [
+            {
+              "dia": "Dia 1",
+              "descricao": "Deus cria um mundo bom e ordenado",
+              "leituras": [
+                {
+                  "leitura": "Gênesis 1"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 2",
+              "descricao": "O ser humano criado para relação",
+              "leituras": [
+                {
+                  "leitura": "Gênesis 2"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 3",
+              "descricao": "A queda e a primeira promessa",
+              "leituras": [
+                {
+                  "leitura": "Gênesis 3"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 4",
+              "descricao": "O pecado se multiplica",
+              "leituras": [
+                {
+                  "leitura": "Gênesis 4"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 5",
+              "descricao": "A linhagem da vida em meio à morte",
+              "leituras": [
+                {
+                  "leitura": "Gênesis 5"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "dias": [
+            {
+              "dia": "Dia 6",
+              "descricao": "A corrupção que entristece a Deus",
+              "leituras": [
+                {
+                  "leitura": "Gênesis 6"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 7",
+              "descricao": "O juízo que interrompe o mal",
+              "leituras": [
+                {
+                  "leitura": "Gênesis 7"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 8",
+              "descricao": "Graça após o juízo",
+              "leituras": [
+                {
+                  "leitura": "Gênesis 8"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 9",
+              "descricao": "Uma aliança para preservar a vida",
+              "leituras": [
+                {
+                  "leitura": "Gênesis 9"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 10",
+              "descricao": "As nações sob a soberania de Deus e a dispersão humana",
+              "leituras": [
+                {
+                  "leitura": "Gênesis 10"
+                },
+                {
+                  "leitura": "Gênesis 11"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "BLOCO 2 — OS PATRIARCAS",
+      "semanas": [
+        {
+          "id": "3",
+          "dias": [
+            {
+              "dia": "Dia 11",
+              "descricao": "A fé persevera no sofrimento sob a soberania de Deus",
+              "leituras": [
+                {
+                  "leitura": "Jó 1"
+                },
+                {
+                  "leitura": "Jó 2"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 12",
+              "descricao": "A fé persevera no sofrimento sob a soberania de Deus",
+              "leituras": [
+                {
+                  "leitura": "Jó 3"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 13",
+              "descricao": "A fé persevera no sofrimento sob a soberania de Deus",
+              "leituras": [
+                {
+                  "leitura": "Jó 4"
+                },
+                {
+                  "leitura": "Jó 5"
+                },
+                {
+                  "leitura": "Jó 6"
+                },
+                {
+                  "leitura": "Jó 7"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 14",
+              "descricao": "A fé persevera no sofrimento sob a soberania de Deus",
+              "leituras": [
+                {
+                  "leitura": "Jó 8"
+                },
+                {
+                  "leitura": "Jó 9"
+                },
+                {
+                  "leitura": "Jó 10"
+                },
+                {
+                  "leitura": "Jó 11"
+                },
+                {
+                  "leitura": "Jó 12"
+                },
+                {
+                  "leitura": "Jó 13"
+                },
+                {
+                  "leitura": "Jó 14"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 15",
+              "descricao": "A fé persevera no sofrimento sob a soberania de Deus",
+              "leituras": [
+                {
+                  "leitura": "Jó 15"
+                },
+                {
+                  "leitura": "Jó 16"
+                },
+                {
+                  "leitura": "Jó 17"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "4",
+          "dias": [
+            {
+              "dia": "Dia 16",
+              "descricao": "A fé persevera no sofrimento sob a soberania de Deus",
+              "leituras": [
+                {
+                  "leitura": "Jó 18"
+                },
+                {
+                  "leitura": "Jó 19"
+                },
+                {
+                  "leitura": "Jó 20"
+                },
+                {
+                  "leitura": "Jó 21"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 17",
+              "descricao": "A fé persevera no sofrimento sob a soberania de Deus",
+              "leituras": [
+                {
+                  "leitura": "Jó 22"
+                },
+                {
+                  "leitura": "Jó 23"
+                },
+                {
+                  "leitura": "Jó 24"
+                },
+                {
+                  "leitura": "Jó 25"
+                },
+                {
+                  "leitura": "Jó 26"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 18",
+              "descricao": "A fé persevera no sofrimento sob a soberania de Deus",
+              "leituras": [
+                {
+                  "leitura": "Jó 27"
+                },
+                {
+                  "leitura": "Jó 28"
+                },
+                {
+                  "leitura": "Jó 29"
+                },
+                {
+                  "leitura": "Jó 30"
+                },
+                {
+                  "leitura": "Jó 31"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 19",
+              "descricao": "A fé persevera no sofrimento sob a soberania de Deus",
+              "leituras": [
+                {
+                  "leitura": "Jó 32"
+                },
+                {
+                  "leitura": "Jó 33"
+                },
+                {
+                  "leitura": "Jó 34"
+                },
+                {
+                  "leitura": "Jó 35"
+                },
+                {
+                  "leitura": "Jó 36"
+                },
+                {
+                  "leitura": "Jó 37"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 20",
+              "descricao": "A fé persevera no sofrimento sob a soberania de Deus",
+              "leituras": [
+                {
+                  "leitura": "Jó 38"
+                },
+                {
+                  "leitura": "Jó 39"
+                },
+                {
+                  "leitura": "Jó 40"
+                },
+                {
+                  "leitura": "Jó 41"
+                },
+                {
+                  "leitura": "Jó 42"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "5",
+          "dias": [
+            {
+              "dia": "Dia 21",
+              "descricao": "Deus chama um homem para abençoar as nações",
+              "leituras": [
+                {
+                  "leitura": "Gênesis 12"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 22",
+              "descricao": "A promessa aprendendo a esperar",
+              "leituras": [
+                {
+                  "leitura": "Gênesis 13"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 23",
+              "descricao": "O Deus que protege seus escolhidos",
+              "leituras": [
+                {
+                  "leitura": "Gênesis 14"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 24",
+              "descricao": "A fé que é considerada justiça",
+              "leituras": [
+                {
+                  "leitura": "Gênesis 15"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 25",
+              "descricao": "A promessa apesar da pressa humana",
+              "leituras": [
+                {
+                  "leitura": "Gênesis 16"
+                },
+                {
+                  "leitura": "Gênesis 17"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "6",
+          "dias": [
+            {
+              "dia": "Dia 26",
+              "descricao": "O Deus que desce para visitar",
+              "leituras": [
+                {
+                  "leitura": "Gênesis 18"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 27",
+              "descricao": "Juízo justo e misericórdia preservadora",
+              "leituras": [
+                {
+                  "leitura": "Gênesis 19"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 28",
+              "descricao": "O Deus que cumpre o que promete",
+              "leituras": [
+                {
+                  "leitura": "Gênesis 20"
+                },
+                {
+                  "leitura": "Gênesis 21"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 29",
+              "descricao": "Fé que confia até o fim",
+              "leituras": [
+                {
+                  "leitura": "Gênesis 22"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 30",
+              "descricao": "A promessa que continua",
+              "leituras": [
+                {
+                  "leitura": "Gênesis 23"
+                },
+                {
+                  "leitura": "Gênesis 24"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "7",
+          "dias": [
+            {
+              "dia": "Dia 31",
+              "descricao": "Duas histórias, uma promessa",
+              "leituras": [
+                {
+                  "leitura": "Gênesis 25"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 32",
+              "descricao": "Deus fiel em tempos de escassez",
+              "leituras": [
+                {
+                  "leitura": "Gênesis 26"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 33",
+              "descricao": "Graça que age apesar do engano",
+              "leituras": [
+                {
+                  "leitura": "Gênesis 27"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 34",
+              "descricao": "Deus presente no caminho",
+              "leituras": [
+                {
+                  "leitura": "Gênesis 28"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 35",
+              "descricao": "Deus faz crescer o seu povo",
+              "leituras": [
+                {
+                  "leitura": "Gênesis 29"
+                },
+                {
+                  "leitura": "Gênesis 30"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "8",
+          "dias": [
+            {
+              "dia": "Dia 36",
+              "descricao": "O Deus que guarda seus servos",
+              "leituras": [
+                {
+                  "leitura": "Gênesis 31"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 37",
+              "descricao": "Um encontro que transforma",
+              "leituras": [
+                {
+                  "leitura": "Gênesis 32"
+                },
+                {
+                  "leitura": "Gênesis 33"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 38",
+              "descricao": "Deus restaura a identidade do seu povo",
+              "leituras": [
+                {
+                  "leitura": "Gênesis 34"
+                },
+                {
+                  "leitura": "Gênesis 35"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 39",
+              "descricao": "Sonhos que Deus não abandona",
+              "leituras": [
+                {
+                  "leitura": "Gênesis 36"
+                },
+                {
+                  "leitura": "Gênesis 37"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 40",
+              "descricao": "A promessa preservada por caminhos improváveis",
+              "leituras": [
+                {
+                  "leitura": "Gênesis 38"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "9",
+          "dias": [
+            {
+              "dia": "Dia 41",
+              "descricao": "Fidelidade em terra estrangeira",
+              "leituras": [
+                {
+                  "leitura": "Gênesis 39"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 42",
+              "descricao": "Deus transforma humilhação em exaltação",
+              "leituras": [
+                {
+                  "leitura": "Gênesis 40"
+                },
+                {
+                  "leitura": "Gênesis 41"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 43",
+              "descricao": "Perdão que reconstrói a família",
+              "leituras": [
+                {
+                  "leitura": "Gênesis 42"
+                },
+                {
+                  "leitura": "Gênesis 43"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 44",
+              "descricao": "Perdão que reconstrói a família",
+              "leituras": [
+                {
+                  "leitura": "Gênesis 44"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 45",
+              "descricao": "Perdão que reconstrói a família",
+              "leituras": [
+                {
+                  "leitura": "Gênesis 45"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "10",
+          "dias": [
+            {
+              "dia": "Dia 46",
+              "descricao": "Deus conduz seu povo ao refúgio",
+              "leituras": [
+                {
+                  "leitura": "Gênesis 46"
+                },
+                {
+                  "leitura": "Gênesis 47"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 47",
+              "descricao": "Deus transforma o mal em bem",
+              "leituras": [
+                {
+                  "leitura": "Gênesis 48"
+                },
+                {
+                  "leitura": "Gênesis 49"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 48",
+              "descricao": "Deus transforma o mal em bem",
+              "leituras": [
+                {
+                  "leitura": "Gênesis 50"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 49",
+              "descricao": "Deus prepara o libertador no silêncio",
+              "leituras": [
+                {
+                  "leitura": "Êxodo 1"
+                },
+                {
+                  "leitura": "Êxodo 2"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 50",
+              "descricao": "O Deus santo que envia",
+              "leituras": [
+                {
+                  "leitura": "Êxodo 3"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "BLOCO 3 — ÊXODO E PEREGRINAÇÃO",
+      "semanas": [
+        {
+          "id": "11",
+          "dias": [
+            {
+              "dia": "Dia 51",
+              "descricao": "O poder de Deus sobre a resistência humana",
+              "leituras": [
+                {
+                  "leitura": "Êxodo 4"
+                },
+                {
+                  "leitura": "Êxodo 5"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 52",
+              "descricao": "O poder de Deus sobre a resistência humana",
+              "leituras": [
+                {
+                  "leitura": "Êxodo 6"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 53",
+              "descricao": "O confronto entre o Senhor e os falsos deuses",
+              "leituras": [
+                {
+                  "leitura": "Êxodo 7"
+                },
+                {
+                  "leitura": "Êxodo 8"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 54",
+              "descricao": "O confronto entre o Senhor e os falsos deuses",
+              "leituras": [
+                {
+                  "leitura": "Êxodo 9"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 55",
+              "descricao": "O confronto entre o Senhor e os falsos deuses",
+              "leituras": [
+                {
+                  "leitura": "Êxodo 10"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "12",
+          "dias": [
+            {
+              "dia": "Dia 56",
+              "descricao": "A redenção marcada pelo sangue",
+              "leituras": [
+                {
+                  "leitura": "Êxodo 11"
+                },
+                {
+                  "leitura": "Êxodo 12"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 57",
+              "descricao": "A redenção marcada pelo sangue",
+              "leituras": [
+                {
+                  "leitura": "Êxodo 13"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 58",
+              "descricao": "O Senhor vence por seu povo",
+              "leituras": [
+                {
+                  "leitura": "Êxodo 14"
+                },
+                {
+                  "leitura": "Êxodo 15"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 59",
+              "descricao": "Dependência diária da graça",
+              "leituras": [
+                {
+                  "leitura": "Êxodo 16"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 60",
+              "descricao": "Deus sustenta e orienta seu povo",
+              "leituras": [
+                {
+                  "leitura": "Êxodo 17"
+                },
+                {
+                  "leitura": "Êxodo 18"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "13",
+          "dias": [
+            {
+              "dia": "Dia 61",
+              "descricao": "O Deus santo chama um povo santo",
+              "leituras": [
+                {
+                  "leitura": "Êxodo 19"
+                },
+                {
+                  "leitura": "Êxodo 20"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 62",
+              "descricao": "Vivendo como povo da aliança",
+              "leituras": [
+                {
+                  "leitura": "Êxodo 21"
+                },
+                {
+                  "leitura": "Êxodo 22"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 63",
+              "descricao": "Vivendo como povo da aliança",
+              "leituras": [
+                {
+                  "leitura": "Êxodo 23"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 64",
+              "descricao": "Vivendo como povo da aliança",
+              "leituras": [
+                {
+                  "leitura": "Êxodo 24"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 65",
+              "descricao": "O Deus que habita entre os seus",
+              "leituras": [
+                {
+                  "leitura": "Êxodo 25"
+                },
+                {
+                  "leitura": "Êxodo 26"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "14",
+          "dias": [
+            {
+              "dia": "Dia 66",
+              "descricao": "O Deus que habita entre os seus",
+              "leituras": [
+                {
+                  "leitura": "Êxodo 27"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 67",
+              "descricao": "O Deus que habita entre os seus",
+              "leituras": [
+                {
+                  "leitura": "Êxodo 28"
+                },
+                {
+                  "leitura": "Êxodo 29"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 68",
+              "descricao": "O Deus que habita entre os seus",
+              "leituras": [
+                {
+                  "leitura": "Êxodo 30"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 69",
+              "descricao": "O Deus que habita entre os seus",
+              "leituras": [
+                {
+                  "leitura": "Êxodo 31"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 70",
+              "descricao": "Pecado, intercessão e restauração",
+              "leituras": [
+                {
+                  "leitura": "Êxodo 32"
+                },
+                {
+                  "leitura": "Êxodo 33"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "15",
+          "dias": [
+            {
+              "dia": "Dia 71",
+              "descricao": "Pecado, intercessão e restauração",
+              "leituras": [
+                {
+                  "leitura": "Êxodo 34"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 72",
+              "descricao": "A glória de Deus no meio do povo",
+              "leituras": [
+                {
+                  "leitura": "Êxodo 35"
+                },
+                {
+                  "leitura": "Êxodo 36"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 73",
+              "descricao": "A glória de Deus no meio do povo",
+              "leituras": [
+                {
+                  "leitura": "Êxodo 37"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 74",
+              "descricao": "A glória de Deus no meio do povo",
+              "leituras": [
+                {
+                  "leitura": "Êxodo 38"
+                },
+                {
+                  "leitura": "Êxodo 39"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 75",
+              "descricao": "A glória de Deus no meio do povo",
+              "leituras": [
+                {
+                  "leitura": "Êxodo 40"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "16",
+          "dias": [
+            {
+              "dia": "Dia 76",
+              "descricao": "Deus provê o caminho da expiação",
+              "leituras": [
+                {
+                  "leitura": "Levítico 1"
+                },
+                {
+                  "leitura": "Levítico 2"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 77",
+              "descricao": "Deus provê o caminho da expiação",
+              "leituras": [
+                {
+                  "leitura": "Levítico 3"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 78",
+              "descricao": "Deus provê o caminho da expiação",
+              "leituras": [
+                {
+                  "leitura": "Levítico 4"
+                },
+                {
+                  "leitura": "Levítico 5"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 79",
+              "descricao": "Deus provê o caminho da expiação",
+              "leituras": [
+                {
+                  "leitura": "Levítico 6"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 80",
+              "descricao": "Deus provê o caminho da expiação",
+              "leituras": [
+                {
+                  "leitura": "Levítico 7"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "17",
+          "dias": [
+            {
+              "dia": "Dia 81",
+              "descricao": "Santidade no serviço ao Senhor",
+              "leituras": [
+                {
+                  "leitura": "Levítico 8"
+                },
+                {
+                  "leitura": "Levítico 9"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 82",
+              "descricao": "Santidade no serviço ao Senhor",
+              "leituras": [
+                {
+                  "leitura": "Levítico 10"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 83",
+              "descricao": "O Deus que purifica seu povo",
+              "leituras": [
+                {
+                  "leitura": "Levítico 11"
+                },
+                {
+                  "leitura": "Levítico 12"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 84",
+              "descricao": "O Deus que purifica seu povo",
+              "leituras": [
+                {
+                  "leitura": "Levítico 13"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 85",
+              "descricao": "O Deus que purifica seu povo",
+              "leituras": [
+                {
+                  "leitura": "Levítico 14"
+                },
+                {
+                  "leitura": "Levítico 15"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "18",
+          "dias": [
+            {
+              "dia": "Dia 86",
+              "descricao": "O Deus que purifica seu povo",
+              "leituras": [
+                {
+                  "leitura": "Levítico 16"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 87",
+              "descricao": "Uma vida separada para Deus",
+              "leituras": [
+                {
+                  "leitura": "Levítico 17"
+                },
+                {
+                  "leitura": "Levítico 18"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 88",
+              "descricao": "Uma vida separada para Deus",
+              "leituras": [
+                {
+                  "leitura": "Levítico 19"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 89",
+              "descricao": "Uma vida separada para Deus",
+              "leituras": [
+                {
+                  "leitura": "Levítico 20"
+                },
+                {
+                  "leitura": "Levítico 21"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 90",
+              "descricao": "Uma vida separada para Deus",
+              "leituras": [
+                {
+                  "leitura": "Levítico 22"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "19",
+          "dias": [
+            {
+              "dia": "Dia 91",
+              "descricao": "Uma vida separada para Deus",
+              "leituras": [
+                {
+                  "leitura": "Levítico 23"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 92",
+              "descricao": "Fidelidade no cotidiano",
+              "leituras": [
+                {
+                  "leitura": "Levítico 24"
+                },
+                {
+                  "leitura": "Levítico 25"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 93",
+              "descricao": "Fidelidade no cotidiano",
+              "leituras": [
+                {
+                  "leitura": "Levítico 26"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 94",
+              "descricao": "Fidelidade no cotidiano",
+              "leituras": [
+                {
+                  "leitura": "Levítico 27"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 95",
+              "descricao": "Um povo organizado pela presença de Deus",
+              "leituras": [
+                {
+                  "leitura": "Números 1"
+                },
+                {
+                  "leitura": "Números 2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "20",
+          "dias": [
+            {
+              "dia": "Dia 96",
+              "descricao": "Um povo organizado pela presença de Deus",
+              "leituras": [
+                {
+                  "leitura": "Números 3"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 97",
+              "descricao": "Um povo organizado pela presença de Deus",
+              "leituras": [
+                {
+                  "leitura": "Números 4"
+                },
+                {
+                  "leitura": "Números 5"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 98",
+              "descricao": "Um povo organizado pela presença de Deus",
+              "leituras": [
+                {
+                  "leitura": "Números 6"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 99",
+              "descricao": "A incredulidade que impede a promessa",
+              "leituras": [
+                {
+                  "leitura": "Números 7"
+                },
+                {
+                  "leitura": "Números 8"
+                },
+                {
+                  "leitura": "Números 9"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 100",
+              "descricao": "A incredulidade que impede a promessa",
+              "leituras": [
+                {
+                  "leitura": "Números 10"
+                },
+                {
+                  "leitura": "Números 11"
+                },
+                {
+                  "leitura": "Números 12"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "21",
+          "dias": [
+            {
+              "dia": "Dia 101",
+              "descricao": "A incredulidade que impede a promessa",
+              "leituras": [
+                {
+                  "leitura": "Números 13"
+                },
+                {
+                  "leitura": "Números 14"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 102",
+              "descricao": "Graça em meio à disciplina",
+              "leituras": [
+                {
+                  "leitura": "Números 15"
+                },
+                {
+                  "leitura": "Números 16"
+                },
+                {
+                  "leitura": "Números 17"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 103",
+              "descricao": "Graça em meio à disciplina",
+              "leituras": [
+                {
+                  "leitura": "Números 18"
+                },
+                {
+                  "leitura": "Números 19"
+                },
+                {
+                  "leitura": "Números 20"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 104",
+              "descricao": "Graça em meio à disciplina",
+              "leituras": [
+                {
+                  "leitura": "Números 21"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 105",
+              "descricao": "Deus governa acima dos planos humanos",
+              "leituras": [
+                {
+                  "leitura": "Números 22"
+                },
+                {
+                  "leitura": "Números 23"
+                },
+                {
+                  "leitura": "Números 24"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "22",
+          "dias": [
+            {
+              "dia": "Dia 106",
+              "descricao": "Deus governa acima dos planos humanos",
+              "leituras": [
+                {
+                  "leitura": "Números 25"
+                },
+                {
+                  "leitura": "Números 26"
+                },
+                {
+                  "leitura": "Números 27"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 107",
+              "descricao": "Preparação para a herança",
+              "leituras": [
+                {
+                  "leitura": "Números 28"
+                },
+                {
+                  "leitura": "Números 29"
+                },
+                {
+                  "leitura": "Números 30"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 108",
+              "descricao": "Preparação para a herança",
+              "leituras": [
+                {
+                  "leitura": "Números 31"
+                },
+                {
+                  "leitura": "Números 32"
+                },
+                {
+                  "leitura": "Números 33"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 109",
+              "descricao": "Preparação para a herança",
+              "leituras": [
+                {
+                  "leitura": "Números 34"
+                },
+                {
+                  "leitura": "Números 35"
+                },
+                {
+                  "leitura": "Números 36"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 110",
+              "descricao": "Lembrar para permanecer fiel",
+              "leituras": [
+                {
+                  "leitura": "Deuteronômio 1"
+                },
+                {
+                  "leitura": "Deuteronômio 2"
+                },
+                {
+                  "leitura": "Deuteronômio 3"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "23",
+          "dias": [
+            {
+              "dia": "Dia 111",
+              "descricao": "Lembrar para permanecer fiel",
+              "leituras": [
+                {
+                  "leitura": "Deuteronômio 4"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 112",
+              "descricao": "Amar a Deus de todo o coração",
+              "leituras": [
+                {
+                  "leitura": "Deuteronômio 5"
+                },
+                {
+                  "leitura": "Deuteronômio 6"
+                },
+                {
+                  "leitura": "Deuteronômio 7"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 113",
+              "descricao": "Amar a Deus de todo o coração",
+              "leituras": [
+                {
+                  "leitura": "Deuteronômio 8"
+                },
+                {
+                  "leitura": "Deuteronômio 9"
+                },
+                {
+                  "leitura": "Deuteronômio 10"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 114",
+              "descricao": "Amar a Deus de todo o coração",
+              "leituras": [
+                {
+                  "leitura": "Deuteronômio 11"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 115",
+              "descricao": "Vivendo segundo a vontade do Senhor",
+              "leituras": [
+                {
+                  "leitura": "Deuteronômio 12"
+                },
+                {
+                  "leitura": "Deuteronômio 13"
+                },
+                {
+                  "leitura": "Deuteronômio 14"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "24",
+          "dias": [
+            {
+              "dia": "Dia 116",
+              "descricao": "Vivendo segundo a vontade do Senhor",
+              "leituras": [
+                {
+                  "leitura": "Deuteronômio 15"
+                },
+                {
+                  "leitura": "Deuteronômio 16"
+                },
+                {
+                  "leitura": "Deuteronômio 17"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 117",
+              "descricao": "Vivendo segundo a vontade do Senhor",
+              "leituras": [
+                {
+                  "leitura": "Deuteronômio 18"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 118",
+              "descricao": "Justiça como expressão do pacto",
+              "leituras": [
+                {
+                  "leitura": "Deuteronômio 19"
+                },
+                {
+                  "leitura": "Deuteronômio 20"
+                },
+                {
+                  "leitura": "Deuteronômio 21"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 119",
+              "descricao": "Justiça como expressão do pacto",
+              "leituras": [
+                {
+                  "leitura": "Deuteronômio 22"
+                },
+                {
+                  "leitura": "Deuteronômio 23"
+                },
+                {
+                  "leitura": "Deuteronômio 24"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 120",
+              "descricao": "Justiça como expressão do pacto",
+              "leituras": [
+                {
+                  "leitura": "Deuteronômio 25"
+                },
+                {
+                  "leitura": "Deuteronômio 26"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "25",
+          "dias": [
+            {
+              "dia": "Dia 121",
+              "descricao": "Escolher a vida diante de Deus",
+              "leituras": [
+                {
+                  "leitura": "Deuteronômio 27"
+                },
+                {
+                  "leitura": "Deuteronômio 28"
+                },
+                {
+                  "leitura": "Deuteronômio 29"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 122",
+              "descricao": "Escolher a vida diante de Deus",
+              "leituras": [
+                {
+                  "leitura": "Deuteronômio 30"
+                },
+                {
+                  "leitura": "Deuteronômio 31"
+                },
+                {
+                  "leitura": "Deuteronômio 32"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 123",
+              "descricao": "Escolher a vida diante de Deus",
+              "leituras": [
+                {
+                  "leitura": "Deuteronômio 33"
+                },
+                {
+                  "leitura": "Deuteronômio 34"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 124",
+              "descricao": "Preparados para confiar no Senhor",
+              "leituras": [
+                {
+                  "leitura": "Josué 1"
+                },
+                {
+                  "leitura": "Josué 2"
+                },
+                {
+                  "leitura": "Josué 3"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 125",
+              "descricao": "Preparados para confiar no Senhor",
+              "leituras": [
+                {
+                  "leitura": "Josué 4"
+                },
+                {
+                  "leitura": "Josué 5"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "26",
+          "dias": [
+            {
+              "dia": "Dia 126",
+              "descricao": "A vitória pertence ao Senhor",
+              "leituras": [
+                {
+                  "leitura": "Josué 6"
+                },
+                {
+                  "leitura": "Josué 7"
+                },
+                {
+                  "leitura": "Josué 8"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 127",
+              "descricao": "A vitória pertence ao Senhor",
+              "leituras": [
+                {
+                  "leitura": "Josué 9"
+                },
+                {
+                  "leitura": "Josué 10"
+                },
+                {
+                  "leitura": "Josué 11"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 128",
+              "descricao": "A vitória pertence ao Senhor",
+              "leituras": [
+                {
+                  "leitura": "Josué 12"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 129",
+              "descricao": "Deus cumpre suas promessas",
+              "leituras": [
+                {
+                  "leitura": "Josué 13"
+                },
+                {
+                  "leitura": "Josué 14"
+                },
+                {
+                  "leitura": "Josué 15"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 130",
+              "descricao": "Deus cumpre suas promessas",
+              "leituras": [
+                {
+                  "leitura": "Josué 16"
+                },
+                {
+                  "leitura": "Josué 17"
+                },
+                {
+                  "leitura": "Josué 18"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "BLOCO 4 — CONQUISTA E JUÍZES",
+      "semanas": [
+        {
+          "id": "27",
+          "dias": [
+            {
+              "dia": "Dia 131",
+              "descricao": "Deus cumpre suas promessas",
+              "leituras": [
+                {
+                  "leitura": "Josué 19"
+                },
+                {
+                  "leitura": "Josué 20"
+                },
+                {
+                  "leitura": "Josué 21"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 132",
+              "descricao": "Servir ao Senhor com fidelidade",
+              "leituras": [
+                {
+                  "leitura": "Josué 22"
+                },
+                {
+                  "leitura": "Josué 23"
+                },
+                {
+                  "leitura": "Josué 24"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 133",
+              "descricao": "Um povo instável, um Deus fiel",
+              "leituras": [
+                {
+                  "leitura": "Juízes 1"
+                },
+                {
+                  "leitura": "Juízes 2"
+                },
+                {
+                  "leitura": "Juízes 3"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 134",
+              "descricao": "Um povo instável, um Deus fiel",
+              "leituras": [
+                {
+                  "leitura": "Juízes 4"
+                },
+                {
+                  "leitura": "Juízes 5"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 135",
+              "descricao": "Deus levanta libertadores imperfeitos",
+              "leituras": [
+                {
+                  "leitura": "Juízes 6"
+                },
+                {
+                  "leitura": "Juízes 7"
+                },
+                {
+                  "leitura": "Juízes 8"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "28",
+          "dias": [
+            {
+              "dia": "Dia 136",
+              "descricao": "Deus levanta libertadores imperfeitos",
+              "leituras": [
+                {
+                  "leitura": "Juízes 9"
+                },
+                {
+                  "leitura": "Juízes 10"
+                },
+                {
+                  "leitura": "Juízes 11"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 137",
+              "descricao": "Deus levanta libertadores imperfeitos",
+              "leituras": [
+                {
+                  "leitura": "Juízes 12"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 138",
+              "descricao": "Força sem obediência",
+              "leituras": [
+                {
+                  "leitura": "Juízes 13"
+                },
+                {
+                  "leitura": "Juízes 14"
+                },
+                {
+                  "leitura": "Juízes 15"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 139",
+              "descricao": "Força sem obediência",
+              "leituras": [
+                {
+                  "leitura": "Juízes 16"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 140",
+              "descricao": "Quando cada um segue seu próprio caminho",
+              "leituras": [
+                {
+                  "leitura": "Juízes 17"
+                },
+                {
+                  "leitura": "Juízes 18"
+                },
+                {
+                  "leitura": "Juízes 19"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "29",
+          "dias": [
+            {
+              "dia": "Dia 141",
+              "descricao": "Quando cada um segue seu próprio caminho",
+              "leituras": [
+                {
+                  "leitura": "Juízes 20"
+                },
+                {
+                  "leitura": "Juízes 21"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 142",
+              "descricao": "Redenção silenciosa em tempos sombrios",
+              "leituras": [
+                {
+                  "leitura": "Rute 1"
+                },
+                {
+                  "leitura": "Rute 2"
+                },
+                {
+                  "leitura": "Rute 3"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 143",
+              "descricao": "Redenção silenciosa em tempos sombrios",
+              "leituras": [
+                {
+                  "leitura": "Rute 4"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 144",
+              "descricao": "Deus forma um líder para seu povo",
+              "leituras": [
+                {
+                  "leitura": "1 Samuel 1"
+                },
+                {
+                  "leitura": "1 Samuel 2"
+                },
+                {
+                  "leitura": "1 Samuel 3"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 145",
+              "descricao": "Deus forma um líder para seu povo",
+              "leituras": [
+                {
+                  "leitura": "1 Samuel 4"
+                },
+                {
+                  "leitura": "1 Samuel 5"
+                },
+                {
+                  "leitura": "1 Samuel 6"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "30",
+          "dias": [
+            {
+              "dia": "Dia 146",
+              "descricao": "Deus forma um líder para seu povo",
+              "leituras": [
+                {
+                  "leitura": "1 Samuel 7"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 147",
+              "descricao": "Um rei segundo o coração do povo",
+              "leituras": [
+                {
+                  "leitura": "1 Samuel 8"
+                },
+                {
+                  "leitura": "1 Samuel 9"
+                },
+                {
+                  "leitura": "1 Samuel 10"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 148",
+              "descricao": "Um rei segundo o coração do povo",
+              "leituras": [
+                {
+                  "leitura": "1 Samuel 11"
+                },
+                {
+                  "leitura": "1 Samuel 12"
+                },
+                {
+                  "leitura": "1 Samuel 13"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 149",
+              "descricao": "Um rei segundo o coração do povo",
+              "leituras": [
+                {
+                  "leitura": "1 Samuel 14"
+                },
+                {
+                  "leitura": "1 Samuel 15"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 150",
+              "descricao": "Um rei segundo o coração de Deus",
+              "leituras": [
+                {
+                  "leitura": "1 Samuel 16"
+                },
+                {
+                  "leitura": "1 Samuel 17"
+                },
+                {
+                  "leitura": "1 Samuel 18"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "31",
+          "dias": [
+            {
+              "dia": "Dia 151",
+              "descricao": "Um rei segundo o coração de Deus",
+              "leituras": [
+                {
+                  "leitura": "1 Samuel 19"
+                },
+                {
+                  "leitura": "1 Samuel 20"
+                },
+                {
+                  "leitura": "1 Samuel 21"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 152",
+              "descricao": "Um rei segundo o coração de Deus",
+              "leituras": [
+                {
+                  "leitura": "1 Samuel 22"
+                },
+                {
+                  "leitura": "1 Samuel 23"
+                },
+                {
+                  "leitura": "1 Samuel 24"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 153",
+              "descricao": "Um rei segundo o coração de Deus",
+              "leituras": [
+                {
+                  "leitura": "1 Samuel 25"
+                },
+                {
+                  "leitura": "1 Samuel 26"
+                },
+                {
+                  "leitura": "1 Samuel 27"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 154",
+              "descricao": "Um rei segundo o coração de Deus",
+              "leituras": [
+                {
+                  "leitura": "1 Samuel 28"
+                },
+                {
+                  "leitura": "1 Samuel 29"
+                },
+                {
+                  "leitura": "1 Samuel 30"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 155",
+              "descricao": "Um rei segundo o coração de Deus",
+              "leituras": [
+                {
+                  "leitura": "1 Samuel 31"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "BLOCO 5 — REINO UNIDO",
+      "semanas": [
+        {
+          "id": "32",
+          "dias": [
+            {
+              "dia": "Dia 156",
+              "descricao": "O reino estabelecido pela promessa",
+              "leituras": [
+                {
+                  "leitura": "2 Samuel 1"
+                },
+                {
+                  "leitura": "2 Samuel 2"
+                },
+                {
+                  "leitura": "2 Samuel 3"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 157",
+              "descricao": "O reino estabelecido pela promessa",
+              "leituras": [
+                {
+                  "leitura": "2 Samuel 4"
+                },
+                {
+                  "leitura": "2 Samuel 5"
+                },
+                {
+                  "leitura": "2 Samuel 6"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 158",
+              "descricao": "O reino estabelecido pela promessa",
+              "leituras": [
+                {
+                  "leitura": "2 Samuel 7"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 159",
+              "descricao": "O pecado do rei e a graça de Deus",
+              "leituras": [
+                {
+                  "leitura": "2 Samuel 8"
+                },
+                {
+                  "leitura": "2 Samuel 9"
+                },
+                {
+                  "leitura": "2 Samuel 10"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 160",
+              "descricao": "O pecado do rei e a graça de Deus",
+              "leituras": [
+                {
+                  "leitura": "2 Samuel 11"
+                },
+                {
+                  "leitura": "2 Samuel 12"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "33",
+          "dias": [
+            {
+              "dia": "Dia 161",
+              "descricao": "Consequências e misericórdia",
+              "leituras": [
+                {
+                  "leitura": "2 Samuel 13"
+                },
+                {
+                  "leitura": "2 Samuel 14"
+                },
+                {
+                  "leitura": "2 Samuel 15"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 162",
+              "descricao": "Consequências e misericórdia",
+              "leituras": [
+                {
+                  "leitura": "2 Samuel 16"
+                },
+                {
+                  "leitura": "2 Samuel 17"
+                },
+                {
+                  "leitura": "2 Samuel 18"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 163",
+              "descricao": "Consequências e misericórdia",
+              "leituras": [
+                {
+                  "leitura": "2 Samuel 19"
+                },
+                {
+                  "leitura": "2 Samuel 20"
+                },
+                {
+                  "leitura": "2 Samuel 21"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 164",
+              "descricao": "Consequências e misericórdia",
+              "leituras": [
+                {
+                  "leitura": "2 Samuel 22"
+                },
+                {
+                  "leitura": "2 Samuel 23"
+                },
+                {
+                  "leitura": "2 Samuel 24"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 165",
+              "descricao": "Sabedoria concedida por Deus",
+              "leituras": [
+                {
+                  "leitura": "1 Reis 1"
+                },
+                {
+                  "leitura": "1 Reis 2"
+                },
+                {
+                  "leitura": "1 Reis 3"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "34",
+          "dias": [
+            {
+              "dia": "Dia 166",
+              "descricao": "Sabedoria concedida por Deus",
+              "leituras": [
+                {
+                  "leitura": "1 Reis 4"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 167",
+              "descricao": "O templo e a glória do Senhor",
+              "leituras": [
+                {
+                  "leitura": "1 Reis 5"
+                },
+                {
+                  "leitura": "1 Reis 6"
+                },
+                {
+                  "leitura": "1 Reis 7"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 168",
+              "descricao": "O templo e a glória do Senhor",
+              "leituras": [
+                {
+                  "leitura": "1 Reis 8"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 169",
+              "descricao": "Um reino dividido por falta de sabedoria",
+              "leituras": [
+                {
+                  "leitura": "1 Reis 12"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 170",
+              "descricao": "Quando a desobediência custa caro",
+              "leituras": [
+                {
+                  "leitura": "1 Reis 13"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "BLOCO 6 — REINO DIVIDIDO",
+      "semanas": [
+        {
+          "id": "35",
+          "dias": [
+            {
+              "dia": "Dia 171",
+              "descricao": "Consequências da infidelidade",
+              "leituras": [
+                {
+                  "leitura": "1 Reis 14"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 172",
+              "descricao": "Reis avaliados pela fidelidade ao Senhor",
+              "leituras": [
+                {
+                  "leitura": "1 Reis 15"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 173",
+              "descricao": "Um reino em declínio espiritual",
+              "leituras": [
+                {
+                  "leitura": "1 Reis 16"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 174",
+              "descricao": "O Deus que sustenta em tempos de escassez",
+              "leituras": [
+                {
+                  "leitura": "1 Reis 17"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 175",
+              "descricao": "O Senhor é Deus",
+              "leituras": [
+                {
+                  "leitura": "1 Reis 18"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "36",
+          "dias": [
+            {
+              "dia": "Dia 176",
+              "descricao": "Deus se revela na fraqueza",
+              "leituras": [
+                {
+                  "leitura": "1 Reis 19"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 177",
+              "descricao": "O Senhor concede a vitória",
+              "leituras": [
+                {
+                  "leitura": "1 Reis 20"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 178",
+              "descricao": "Justiça divina contra a opressão",
+              "leituras": [
+                {
+                  "leitura": "1 Reis 21"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 179",
+              "descricao": "A palavra do Senhor se cumpre",
+              "leituras": [
+                {
+                  "leitura": "1 Reis 22"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 180",
+              "descricao": "A autoridade do Deus vivo",
+              "leituras": [
+                {
+                  "leitura": "2 Reis 1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "37",
+          "dias": [
+            {
+              "dia": "Dia 181",
+              "descricao": "O Senhor continua sua obra",
+              "leituras": [
+                {
+                  "leitura": "2 Reis 2"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 182",
+              "descricao": "Deus age apesar da instabilidade",
+              "leituras": [
+                {
+                  "leitura": "2 Reis 3"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 183",
+              "descricao": "A graça que restaura vidas",
+              "leituras": [
+                {
+                  "leitura": "2 Reis 4"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 184",
+              "descricao": "A graça que alcança o estrangeiro",
+              "leituras": [
+                {
+                  "leitura": "2 Reis 5"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 185",
+              "descricao": "O Senhor abre os olhos",
+              "leituras": [
+                {
+                  "leitura": "2 Reis 6"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "38",
+          "dias": [
+            {
+              "dia": "Dia 186",
+              "descricao": "Libertação inesperada",
+              "leituras": [
+                {
+                  "leitura": "2 Reis 7"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 187",
+              "descricao": "Deus governa o curso da história",
+              "leituras": [
+                {
+                  "leitura": "2 Reis 8"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 188",
+              "descricao": "O juízo chega à casa real",
+              "leituras": [
+                {
+                  "leitura": "2 Reis 9"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 189",
+              "descricao": "Zelo sem fidelidade completa",
+              "leituras": [
+                {
+                  "leitura": "2 Reis 10"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 190",
+              "descricao": "Deus preserva a linhagem real",
+              "leituras": [
+                {
+                  "leitura": "2 Reis 11"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "39",
+          "dias": [
+            {
+              "dia": "Dia 191",
+              "descricao": "Reformas incompletas",
+              "leituras": [
+                {
+                  "leitura": "2 Reis 12"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 192",
+              "descricao": "Misericórdia apesar da decadência",
+              "leituras": [
+                {
+                  "leitura": "2 Reis 13"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 193",
+              "descricao": "Prosperidade sem arrependimento",
+              "leituras": [
+                {
+                  "leitura": "2 Reis 14"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 194",
+              "descricao": "Deus julga as nações e seu povo",
+              "leituras": [
+                {
+                  "leitura": "Amós 1"
+                },
+                {
+                  "leitura": "Amós 2"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 195",
+              "descricao": "Justiça que Deus requer",
+              "leituras": [
+                {
+                  "leitura": "Amós 3"
+                },
+                {
+                  "leitura": "Amós 4"
+                },
+                {
+                  "leitura": "Amós 5"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "40",
+          "dias": [
+            {
+              "dia": "Dia 196",
+              "descricao": "O juízo não anula a esperança",
+              "leituras": [
+                {
+                  "leitura": "Amós 6"
+                },
+                {
+                  "leitura": "Amós 7"
+                },
+                {
+                  "leitura": "Amós 8"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 197",
+              "descricao": "O juízo não anula a esperança",
+              "leituras": [
+                {
+                  "leitura": "Amós 9"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 198",
+              "descricao": "Amor fiel em meio à infidelidade",
+              "leituras": [
+                {
+                  "leitura": "Oséias 1"
+                },
+                {
+                  "leitura": "Oséias 2"
+                },
+                {
+                  "leitura": "Oséias 3"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 199",
+              "descricao": "Um povo sem conhecimento de Deus",
+              "leituras": [
+                {
+                  "leitura": "Oséias 4"
+                },
+                {
+                  "leitura": "Oséias 5"
+                },
+                {
+                  "leitura": "Oséias 6"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 200",
+              "descricao": "Um povo sem conhecimento de Deus",
+              "leituras": [
+                {
+                  "leitura": "Oséias 7"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "41",
+          "dias": [
+            {
+              "dia": "Dia 201",
+              "descricao": "Amor que chama ao arrependimento",
+              "leituras": [
+                {
+                  "leitura": "Oséias 8"
+                },
+                {
+                  "leitura": "Oséias 9"
+                },
+                {
+                  "leitura": "Oséias 10"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 202",
+              "descricao": "Amor que chama ao arrependimento",
+              "leituras": [
+                {
+                  "leitura": "Oséias 11"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 203",
+              "descricao": "A cura da infidelidade",
+              "leituras": [
+                {
+                  "leitura": "Oséias 12"
+                },
+                {
+                  "leitura": "Oséias 13"
+                },
+                {
+                  "leitura": "Oséias 14"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 204",
+              "descricao": "Um reino instável",
+              "leituras": [
+                {
+                  "leitura": "2 Reis 15"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 205",
+              "descricao": "Alianças que afastam de Deus",
+              "leituras": [
+                {
+                  "leitura": "2 Reis 16"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "42",
+          "dias": [
+            {
+              "dia": "Dia 206",
+              "descricao": "O fim do Reino do Norte",
+              "leituras": [
+                {
+                  "leitura": "2 Reis 17"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 207",
+              "descricao": "O Senhor é a verdadeira segurança",
+              "leituras": [
+                {
+                  "leitura": "2 Reis 18"
+                },
+                {
+                  "leitura": "2 Reis 19"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 208",
+              "descricao": "Orgulho e advertência",
+              "leituras": [
+                {
+                  "leitura": "2 Reis 20"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 209",
+              "descricao": "O pecado que leva à ruína",
+              "leituras": [
+                {
+                  "leitura": "2 Reis 21"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 210",
+              "descricao": "A Palavra redescoberta",
+              "leituras": [
+                {
+                  "leitura": "2 Reis 22"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "BLOCO 7 — EXÍLIO",
+      "semanas": [
+        {
+          "id": "43",
+          "dias": [
+            {
+              "dia": "Dia 211",
+              "descricao": "Reforma tardia",
+              "leituras": [
+                {
+                  "leitura": "2 Reis 23"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 212",
+              "descricao": "O cerco se aproxima",
+              "leituras": [
+                {
+                  "leitura": "2 Reis 24"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 213",
+              "descricao": "A queda de Jerusalém",
+              "leituras": [
+                {
+                  "leitura": "2 Reis 25"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 214",
+              "descricao": "Chamado para tempos difíceis",
+              "leituras": [
+                {
+                  "leitura": "Jeremias 1"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 215",
+              "descricao": "O amor rejeitado de Deus",
+              "leituras": [
+                {
+                  "leitura": "Jeremias 2"
+                },
+                {
+                  "leitura": "Jeremias 3"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "44",
+          "dias": [
+            {
+              "dia": "Dia 216",
+              "descricao": "Um juízo inevitável",
+              "leituras": [
+                {
+                  "leitura": "Jeremias 4"
+                },
+                {
+                  "leitura": "Jeremias 5"
+                },
+                {
+                  "leitura": "Jeremias 6"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 217",
+              "descricao": "Falsa segurança religiosa",
+              "leituras": [
+                {
+                  "leitura": "Jeremias 7"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 218",
+              "descricao": "Dor pelo pecado do povo",
+              "leituras": [
+                {
+                  "leitura": "Jeremias 8"
+                },
+                {
+                  "leitura": "Jeremias 9"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 219",
+              "descricao": "O Deus verdadeiro e a infidelidade do povo",
+              "leituras": [
+                {
+                  "leitura": "Jeremias 10"
+                },
+                {
+                  "leitura": "Jeremias 11"
+                },
+                {
+                  "leitura": "Jeremias 12"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 220",
+              "descricao": "O Deus verdadeiro e a infidelidade do povo",
+              "leituras": [
+                {
+                  "leitura": "Jeremias 13"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "45",
+          "dias": [
+            {
+              "dia": "Dia 221",
+              "descricao": "O coração enganoso",
+              "leituras": [
+                {
+                  "leitura": "Jeremias 14"
+                },
+                {
+                  "leitura": "Jeremias 15"
+                },
+                {
+                  "leitura": "Jeremias 16"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 222",
+              "descricao": "O coração enganoso",
+              "leituras": [
+                {
+                  "leitura": "Jeremias 17"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 223",
+              "descricao": "O oleiro e o barro",
+              "leituras": [
+                {
+                  "leitura": "Jeremias 18"
+                },
+                {
+                  "leitura": "Jeremias 19"
+                },
+                {
+                  "leitura": "Jeremias 20"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 224",
+              "descricao": "Esperança em meio ao juízo",
+              "leituras": [
+                {
+                  "leitura": "Jeremias 21"
+                },
+                {
+                  "leitura": "Jeremias 22"
+                },
+                {
+                  "leitura": "Jeremias 23"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 225",
+              "descricao": "Esperança em meio ao juízo",
+              "leituras": [
+                {
+                  "leitura": "Jeremias 24"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "46",
+          "dias": [
+            {
+              "dia": "Dia 226",
+              "descricao": "Setenta anos determinados pelo Senhor",
+              "leituras": [
+                {
+                  "leitura": "Jeremias 25"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 227",
+              "descricao": "A verdade contra a falsa esperança",
+              "leituras": [
+                {
+                  "leitura": "Jeremias 26"
+                },
+                {
+                  "leitura": "Jeremias 27"
+                },
+                {
+                  "leitura": "Jeremias 28"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 228",
+              "descricao": "A verdade contra a falsa esperança",
+              "leituras": [
+                {
+                  "leitura": "Jeremias 29"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 229",
+              "descricao": "Promessa de nova aliança",
+              "leituras": [
+                {
+                  "leitura": "Jeremias 30"
+                },
+                {
+                  "leitura": "Jeremias 31"
+                },
+                {
+                  "leitura": "Jeremias 32"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 230",
+              "descricao": "Promessa de nova aliança",
+              "leituras": [
+                {
+                  "leitura": "Jeremias 33"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "47",
+          "dias": [
+            {
+              "dia": "Dia 231",
+              "descricao": "Resistência à Palavra",
+              "leituras": [
+                {
+                  "leitura": "Jeremias 34"
+                },
+                {
+                  "leitura": "Jeremias 35"
+                },
+                {
+                  "leitura": "Jeremias 36"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 232",
+              "descricao": "Jerusalém sitiada",
+              "leituras": [
+                {
+                  "leitura": "Jeremias 37"
+                },
+                {
+                  "leitura": "Jeremias 38"
+                },
+                {
+                  "leitura": "Jeremias 39"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 233",
+              "descricao": "Sobrevivendo após a queda",
+              "leituras": [
+                {
+                  "leitura": "Jeremias 40"
+                },
+                {
+                  "leitura": "Jeremias 41"
+                },
+                {
+                  "leitura": "Jeremias 42"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 234",
+              "descricao": "Sobrevivendo após a queda",
+              "leituras": [
+                {
+                  "leitura": "Jeremias 43"
+                },
+                {
+                  "leitura": "Jeremias 44"
+                },
+                {
+                  "leitura": "Jeremias 45"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 235",
+              "descricao": "Deus governa as nações",
+              "leituras": [
+                {
+                  "leitura": "Jeremias 46"
+                },
+                {
+                  "leitura": "Jeremias 47"
+                },
+                {
+                  "leitura": "Jeremias 48"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "48",
+          "dias": [
+            {
+              "dia": "Dia 236",
+              "descricao": "Deus governa as nações",
+              "leituras": [
+                {
+                  "leitura": "Jeremias 49"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 237",
+              "descricao": "O juízo contra a Babilônia",
+              "leituras": [
+                {
+                  "leitura": "Jeremias 50"
+                },
+                {
+                  "leitura": "Jeremias 51"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 238",
+              "descricao": "O choro pela cidade destruída",
+              "leituras": [
+                {
+                  "leitura": "Lamentações 1"
+                },
+                {
+                  "leitura": "Lamentações 2"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 239",
+              "descricao": "Esperança no meio da dor",
+              "leituras": [
+                {
+                  "leitura": "Lamentações 3"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 240",
+              "descricao": "A oração que nasce das ruínas",
+              "leituras": [
+                {
+                  "leitura": "Lamentações 4"
+                },
+                {
+                  "leitura": "Lamentações 5"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "49",
+          "dias": [
+            {
+              "dia": "Dia 241",
+              "descricao": "A glória de Deus no exílio",
+              "leituras": [
+                {
+                  "leitura": "Ezequiel 1"
+                },
+                {
+                  "leitura": "Ezequiel 2"
+                },
+                {
+                  "leitura": "Ezequiel 3"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 242",
+              "descricao": "O juízo anunciado",
+              "leituras": [
+                {
+                  "leitura": "Ezequiel 4"
+                },
+                {
+                  "leitura": "Ezequiel 5"
+                },
+                {
+                  "leitura": "Ezequiel 6"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 243",
+              "descricao": "O juízo anunciado",
+              "leituras": [
+                {
+                  "leitura": "Ezequiel 7"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 244",
+              "descricao": "A glória se afasta do templo",
+              "leituras": [
+                {
+                  "leitura": "Ezequiel 8"
+                },
+                {
+                  "leitura": "Ezequiel 9"
+                },
+                {
+                  "leitura": "Ezequiel 10"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 245",
+              "descricao": "A glória se afasta do templo",
+              "leituras": [
+                {
+                  "leitura": "Ezequiel 11"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "50",
+          "dias": [
+            {
+              "dia": "Dia 246",
+              "descricao": "Um povo resistente",
+              "leituras": [
+                {
+                  "leitura": "Ezequiel 12"
+                },
+                {
+                  "leitura": "Ezequiel 13"
+                },
+                {
+                  "leitura": "Ezequiel 14"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 247",
+              "descricao": "Um povo resistente",
+              "leituras": [
+                {
+                  "leitura": "Ezequiel 15"
+                },
+                {
+                  "leitura": "Ezequiel 16"
+                },
+                {
+                  "leitura": "Ezequiel 17"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 248",
+              "descricao": "Um povo resistente",
+              "leituras": [
+                {
+                  "leitura": "Ezequiel 18"
+                },
+                {
+                  "leitura": "Ezequiel 19"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 249",
+              "descricao": "O pecado exposto",
+              "leituras": [
+                {
+                  "leitura": "Ezequiel 20"
+                },
+                {
+                  "leitura": "Ezequiel 21"
+                },
+                {
+                  "leitura": "Ezequiel 22"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 250",
+              "descricao": "O pecado exposto",
+              "leituras": [
+                {
+                  "leitura": "Ezequiel 23"
+                },
+                {
+                  "leitura": "Ezequiel 24"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "51",
+          "dias": [
+            {
+              "dia": "Dia 251",
+              "descricao": "Deus julga as nações",
+              "leituras": [
+                {
+                  "leitura": "Ezequiel 25"
+                },
+                {
+                  "leitura": "Ezequiel 26"
+                },
+                {
+                  "leitura": "Ezequiel 27"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 252",
+              "descricao": "Deus julga as nações",
+              "leituras": [
+                {
+                  "leitura": "Ezequiel 28"
+                },
+                {
+                  "leitura": "Ezequiel 29"
+                },
+                {
+                  "leitura": "Ezequiel 30"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 253",
+              "descricao": "Deus julga as nações",
+              "leituras": [
+                {
+                  "leitura": "Ezequiel 31"
+                },
+                {
+                  "leitura": "Ezequiel 32"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 254",
+              "descricao": "Um novo começo possível",
+              "leituras": [
+                {
+                  "leitura": "Ezequiel 33"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 255",
+              "descricao": "O verdadeiro Pastor",
+              "leituras": [
+                {
+                  "leitura": "Ezequiel 34"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "52",
+          "dias": [
+            {
+              "dia": "Dia 256",
+              "descricao": "Vida onde havia morte",
+              "leituras": [
+                {
+                  "leitura": "Ezequiel 35"
+                },
+                {
+                  "leitura": "Ezequiel 36"
+                },
+                {
+                  "leitura": "Ezequiel 37"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 257",
+              "descricao": "O Senhor reina soberano",
+              "leituras": [
+                {
+                  "leitura": "Ezequiel 38"
+                },
+                {
+                  "leitura": "Ezequiel 39"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 258",
+              "descricao": "A glória retorna",
+              "leituras": [
+                {
+                  "leitura": "Ezequiel 40"
+                },
+                {
+                  "leitura": "Ezequiel 41"
+                },
+                {
+                  "leitura": "Ezequiel 42"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 259",
+              "descricao": "A glória retorna",
+              "leituras": [
+                {
+                  "leitura": "Ezequiel 43"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 260",
+              "descricao": "Um futuro restaurado",
+              "leituras": [
+                {
+                  "leitura": "Ezequiel 44"
+                },
+                {
+                  "leitura": "Ezequiel 45"
+                },
+                {
+                  "leitura": "Ezequiel 46"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "53",
+          "dias": [
+            {
+              "dia": "Dia 261",
+              "descricao": "Um futuro restaurado",
+              "leituras": [
+                {
+                  "leitura": "Ezequiel 47"
+                },
+                {
+                  "leitura": "Ezequiel 48"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 262",
+              "descricao": "Fidelidade em meio à pressão",
+              "leituras": [
+                {
+                  "leitura": "Daniel 1"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 263",
+              "descricao": "Deus revela e governa os reinos",
+              "leituras": [
+                {
+                  "leitura": "Daniel 2"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 264",
+              "descricao": "Deus presente na fornalha",
+              "leituras": [
+                {
+                  "leitura": "Daniel 3"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 265",
+              "descricao": "O orgulho dos reis humilhado",
+              "leituras": [
+                {
+                  "leitura": "Daniel 4"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "54",
+          "dias": [
+            {
+              "dia": "Dia 266",
+              "descricao": "O fim do poder arrogante",
+              "leituras": [
+                {
+                  "leitura": "Daniel 5"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 267",
+              "descricao": "Fidelidade até o fim",
+              "leituras": [
+                {
+                  "leitura": "Daniel 6"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 268",
+              "descricao": "O Reino eterno do Filho do Homem",
+              "leituras": [
+                {
+                  "leitura": "Daniel 7"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 269",
+              "descricao": "O tempo está nas mãos de Deus",
+              "leituras": [
+                {
+                  "leitura": "Daniel 8"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 270",
+              "descricao": "Oração e esperança messiânica",
+              "leituras": [
+                {
+                  "leitura": "Daniel 9"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "55",
+          "dias": [
+            {
+              "dia": "Dia 271",
+              "descricao": "O triunfo final do Reino de Deus",
+              "leituras": [
+                {
+                  "leitura": "Daniel 10"
+                },
+                {
+                  "leitura": "Daniel 11"
+                },
+                {
+                  "leitura": "Daniel 12"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 272",
+              "descricao": "O Senhor move o coração dos reis",
+              "leituras": [
+                {
+                  "leitura": "Esdras 1"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 273",
+              "descricao": "Um povo restaurado pelo nome",
+              "leituras": [
+                {
+                  "leitura": "Esdras 2"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 274",
+              "descricao": "O altar reconstruído antes das muralhas",
+              "leituras": [
+                {
+                  "leitura": "Esdras 3"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 275",
+              "descricao": "Oposição à obra de Deus",
+              "leituras": [
+                {
+                  "leitura": "Esdras 4"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titulo": "BLOCO 8 — PÓS-EXÍLIO E ESPERANÇA",
+      "semanas": [
+        {
+          "id": "56",
+          "dias": [
+            {
+              "dia": "Dia 276",
+              "descricao": "Deus sustenta a reconstrução",
+              "leituras": [
+                {
+                  "leitura": "Esdras 5"
+                },
+                {
+                  "leitura": "Esdras 6"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 277",
+              "descricao": "Considerem os seus caminhos",
+              "leituras": [
+                {
+                  "leitura": "Ageu 1"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 278",
+              "descricao": "A glória futura será maior",
+              "leituras": [
+                {
+                  "leitura": "Ageu 2"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 279",
+              "descricao": "Voltem para mim, diz o Senhor",
+              "leituras": [
+                {
+                  "leitura": "Zacarias 1"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 280",
+              "descricao": "Deus habita no meio do seu povo",
+              "leituras": [
+                {
+                  "leitura": "Zacarias 2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "57",
+          "dias": [
+            {
+              "dia": "Dia 281",
+              "descricao": "O sacerdote restaurado",
+              "leituras": [
+                {
+                  "leitura": "Zacarias 3"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 282",
+              "descricao": "Não por força, nem por poder",
+              "leituras": [
+                {
+                  "leitura": "Zacarias 4"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 283",
+              "descricao": "Santidade no meio do povo",
+              "leituras": [
+                {
+                  "leitura": "Zacarias 5"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 284",
+              "descricao": "O Rei que virá",
+              "leituras": [
+                {
+                  "leitura": "Zacarias 6"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 285",
+              "descricao": "Obediência além de rituais",
+              "leituras": [
+                {
+                  "leitura": "Zacarias 7"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "58",
+          "dias": [
+            {
+              "dia": "Dia 286",
+              "descricao": "Promessas de restauração",
+              "leituras": [
+                {
+                  "leitura": "Zacarias 8"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 287",
+              "descricao": "O Rei humilde prometido",
+              "leituras": [
+                {
+                  "leitura": "Zacarias 9"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 288",
+              "descricao": "O Senhor restaura seu rebanho",
+              "leituras": [
+                {
+                  "leitura": "Zacarias 10"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 289",
+              "descricao": "O pastor rejeitado",
+              "leituras": [
+                {
+                  "leitura": "Zacarias 11"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 290",
+              "descricao": "O Espírito de graça e súplica",
+              "leituras": [
+                {
+                  "leitura": "Zacarias 12"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "59",
+          "dias": [
+            {
+              "dia": "Dia 291",
+              "descricao": "Purificação do povo",
+              "leituras": [
+                {
+                  "leitura": "Zacarias 13"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 292",
+              "descricao": "O Senhor reinará sobre toda a terra",
+              "leituras": [
+                {
+                  "leitura": "Zacarias 14"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 293",
+              "descricao": "Um líder comprometido com a Palavra",
+              "leituras": [
+                {
+                  "leitura": "Esdras 7"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 294",
+              "descricao": "A mão protetora do Senhor",
+              "leituras": [
+                {
+                  "leitura": "Esdras 8"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 295",
+              "descricao": "Tristeza pelo pecado do povo",
+              "leituras": [
+                {
+                  "leitura": "Esdras 9"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "60",
+          "dias": [
+            {
+              "dia": "Dia 296",
+              "descricao": "Arrependimento e renovação",
+              "leituras": [
+                {
+                  "leitura": "Esdras 10"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 297",
+              "descricao": "Um coração quebrantado pela cidade",
+              "leituras": [
+                {
+                  "leitura": "Neemias 1"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 298",
+              "descricao": "Deus abre portas para a missão",
+              "leituras": [
+                {
+                  "leitura": "Neemias 2"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 299",
+              "descricao": "Cada um no seu lugar",
+              "leituras": [
+                {
+                  "leitura": "Neemias 3"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 300",
+              "descricao": "Perseverança diante da oposição",
+              "leituras": [
+                {
+                  "leitura": "Neemias 4"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "61",
+          "dias": [
+            {
+              "dia": "Dia 301",
+              "descricao": "Justiça dentro do povo de Deus",
+              "leituras": [
+                {
+                  "leitura": "Neemias 5"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 302",
+              "descricao": "Firmeza diante da intimidação",
+              "leituras": [
+                {
+                  "leitura": "Neemias 6"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 303",
+              "descricao": "Um povo organizado",
+              "leituras": [
+                {
+                  "leitura": "Neemias 7"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 304",
+              "descricao": "A Palavra traz avivamento",
+              "leituras": [
+                {
+                  "leitura": "Neemias 8"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 305",
+              "descricao": "Confissão e aliança renovada",
+              "leituras": [
+                {
+                  "leitura": "Neemias 9"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "62",
+          "dias": [
+            {
+              "dia": "Dia 306",
+              "descricao": "Compromisso com a obediência",
+              "leituras": [
+                {
+                  "leitura": "Neemias 10"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 307",
+              "descricao": "Alegria na dedicação",
+              "leituras": [
+                {
+                  "leitura": "Neemias 11"
+                },
+                {
+                  "leitura": "Neemias 12"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 308",
+              "descricao": "Reforma contínua do coração",
+              "leituras": [
+                {
+                  "leitura": "Neemias 13"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 309",
+              "descricao": "Deus age mesmo quando não é citado",
+              "leituras": [
+                {
+                  "leitura": "Ester 1"
+                },
+                {
+                  "leitura": "Ester 2"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 310",
+              "descricao": "O ódio contra o povo de Deus",
+              "leituras": [
+                {
+                  "leitura": "Ester 3"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "63",
+          "dias": [
+            {
+              "dia": "Dia 311",
+              "descricao": "Chamados para um tempo como este",
+              "leituras": [
+                {
+                  "leitura": "Ester 4"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 312",
+              "descricao": "Coragem diante do risco",
+              "leituras": [
+                {
+                  "leitura": "Ester 5"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 313",
+              "descricao": "Deus reverte os planos humanos",
+              "leituras": [
+                {
+                  "leitura": "Ester 6"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 314",
+              "descricao": "Justiça no tempo certo",
+              "leituras": [
+                {
+                  "leitura": "Ester 7"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 315",
+              "descricao": "Vida no lugar da morte",
+              "leituras": [
+                {
+                  "leitura": "Ester 8"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "64",
+          "dias": [
+            {
+              "dia": "Dia 316",
+              "descricao": "Deus preserva seu povo",
+              "leituras": [
+                {
+                  "leitura": "Ester 9"
+                },
+                {
+                  "leitura": "Ester 10"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 317",
+              "descricao": "Amor desprezado",
+              "leituras": [
+                {
+                  "leitura": "Malaquias 1"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 318",
+              "descricao": "Aliança quebrada",
+              "leituras": [
+                {
+                  "leitura": "Malaquias 2"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 319",
+              "descricao": "O mensageiro da aliança",
+              "leituras": [
+                {
+                  "leitura": "Malaquias 3"
+                }
+              ]
+            },
+            {
+              "dia": "Dia 320",
+              "descricao": "O sol da justiça se levantará",
+              "leituras": [
+                {
+                  "leitura": "Malaquias 4"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
