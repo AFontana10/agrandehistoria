@@ -748,6 +748,13 @@
   }
 
   window.addEventListener('DOMContentLoaded', () => {
+    // register service worker for PWA (best-effort)
+    if ('serviceWorker' in navigator) {
+      navigator.serviceWorker.register('/sw.js').catch(() => {
+        // swallow errors silently
+      });
+    }
+
     load().catch((err) => renderError(String(err && err.message ? err.message : err)));
   });
 })();
